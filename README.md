@@ -7,6 +7,6 @@
 
 ### Atuações e Interesses
 
-* Atualmente estou estudando as linguagens PHP, HTML, CSS e Bootstrap.
+* Atualmente estou estudando as linguagens PHP, HTML, CSS e JS.
 * De framework estou aprendendo a utilizar o Laravel.
 * Aberto a ajudar a quem precisar, no que eu puder ajudar!
