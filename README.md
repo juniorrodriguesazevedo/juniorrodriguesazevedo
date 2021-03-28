@@ -3,7 +3,7 @@
 ### Sobre mim
 
 * Desenvolvedor Web
-* Sistemas para Internet - IFTO
+* Análise e Desenvolvimento de Sistemas - UNICSUL
 
 ### Atuações e Interesses
 
