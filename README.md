@@ -20,8 +20,3 @@
 <img src="https://icongr.am/devicon/django-original.svg?size=120&color=5642eb" alt="Django" height="30" width="40">
 <img src="https://icongr.am/devicon/vuejs-original.svg?size=120&color=5642eb" alt="Vuejs" height="30" width="40">
 </div>
-
-#### Minhas redes
-<a href="https://www.linkedin.com/in/valdemirrodriguesazevedojunior/" target="_blank">
-<img src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="Linkedin" height="30" width="40">
-</a>
