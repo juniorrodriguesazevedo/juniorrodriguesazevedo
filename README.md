@@ -16,7 +16,5 @@
 
 #### Atualmente estudando:
 <div>
-<img src="https://icongr.am/devicon/python-original.svg?size=120&color=5642eb" alt="Python" height="30" width="40">
-<img src="https://icongr.am/devicon/django-original.svg?size=120&color=5642eb" alt="Django" height="30" width="40">
 <img src="https://icongr.am/devicon/vuejs-original.svg?size=120&color=5642eb" alt="Vuejs" height="30" width="40">
 </div>
