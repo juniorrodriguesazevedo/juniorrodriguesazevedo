@@ -17,5 +17,4 @@
 #### Atualmente estudando:
 <div>
 <img src="https://icongr.am/devicon/vuejs-original.svg?size=120&color=5642eb" alt="Vuejs" height="30" width="40">
-<img src="https://icongr.am/devicon/ruby-original.svg?size=120&color=currentColor" alt="Vuejs" height="30" width="40">
 </div>
