@@ -14,9 +14,3 @@
 <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=120&color=5642eb" alt="Bootstrap" height="30" width="40">
 </div>
 
-#### Atualmente estudando:
-<div>
-<img src="https://icongr.am/devicon/python-original.svg?size=120&color=currentColor" alt="Python" height="30" width="40">
-<img src="https://icongr.am/devicon/django-original.svg?size=120&color=currentColor" alt="Django" height="30" width="40">
-<img src="https://icongr.am/devicon/react-original-wordmark.svg?size=120&color=currentColor" alt="Django" height="30" width="40">
-</div>
