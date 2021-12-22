@@ -7,7 +7,11 @@
 * Análise e Desenvolvimento de Sistemas - UNICSUL
 
 #### Minhas redes:
-<a href="https://www.linkedin.com/in/valdemirrodriguesazevedojunior/" target="_blank"><img src="https://icongr.am/devicon/linkedin-original.svg?size=120&color=currentColor" alt="Linkedin" height="30" width="40"></a>
+<a href="https://github.com/juniorrodriguesazevedo/Contato" target="_blank"><img src="https://i.imgur.com/An0fQHP.png" height="30" width="30"></a>
+<a href="https://github.com/juniorrodriguesazevedo/Contato" target="_blank"><img src="https://i.imgur.com/oo7Peve.png" alt="Telegram" height="30" width="30"></a>
+<a href="https://github.com/juniorrodriguesazevedo/Contato" target="_blank"><img src="https://i.imgur.com/gHxAJ8h.png" alt="Instagram" height="30" width="30"></a>
+<a href="https://github.com/juniorrodriguesazevedo/Contato" target="_blank"><img src="https://i.imgur.com/1DcJ4pA.png" alt="Discord" height="30" width="30"></a>
+<a href="https://github.com/juniorrodriguesazevedo/Contato" target="_blank"><img src="https://i.imgur.com/jfura9N.png" alt="Email" height="30" width="30"></a>
 
 #### Trabalhando com:
 <div>
