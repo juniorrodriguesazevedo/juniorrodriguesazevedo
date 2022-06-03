@@ -4,7 +4,8 @@
 
 #### Formação acadêmica
 
-* Análise e Desenvolvimento de Sistemas - UNICSUL
+* Análise e Desenvolvimento de Sistemas (Superior) - UNICSUL
+* Engenharia de Software (Pós-Graduação) - UNICV
 
 #### Minhas redes:
 <a href="https://github.com/juniorrodriguesazevedo/Contato"><img src="https://i.imgur.com/An0fQHP.png" height="30" width="30"></a>
