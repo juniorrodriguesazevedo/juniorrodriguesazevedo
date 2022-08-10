@@ -4,7 +4,7 @@
 
 #### Formação acadêmica
 
-* Análise e Desenvolvimento de Sistemas (Superior) - UNICSUL
+* Análise e Desenvolvimento de Sistemas (Tecnólogo) - UNICSUL
 * Engenharia de Software (Pós-Graduação) - UNICV
 
 #### Minhas redes:
