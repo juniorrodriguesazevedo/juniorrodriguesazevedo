@@ -1,6 +1,6 @@
 ## Olá! Me chamo Junior Rodrigues
 
-<img align="right" src="https://i.imgur.com/QhazGND.png" width="400px">
+<img align="right" src="https://i.imgur.com/QhazGND.png" width="380px">
 
 #### Formação acadêmica
 
