@@ -21,9 +21,7 @@
 <img src="https://icongr.am/devicon/html5-original.svg?size=120&color=f74408" alt="HTML" height="30" width="40">
 <img src="https://icongr.am/devicon/css3-original.svg?size=120&color=f74408" alt="CSS" height="30" width="40">
 <img src="https://icongr.am/devicon/javascript-original.svg?size=120&color=f74408" alt="JS" height="30" width="40">
-<img src="https://icongr.am/devicon/vuejs-original.svg?size=120&color=currentColor" alt="Vue.js" height="30" width="40">
 <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=120&color=5642eb" alt="Bootstrap" height="30" width="40">
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png" alt="Flutter" height="30" width="30">
 </div>
 
 
