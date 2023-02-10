@@ -1,13 +1,12 @@
 ## Olá! Me chamo Junior Rodrigues
 
-<img align="right" src="https://i.imgur.com/QhazGND.png" width="370px">
+<img align="right" src="https://i.imgur.com/QhazGND.png" width="360px">
 
 #### Formação acadêmica
 
 * Análise e Desenvolvimento de Sistemas (Tecnólogo) - UNICSUL
-* Desenvolvimento de Sistemas Web com PHP (Pós-Graduação) - UNICV
 * Engenharia de Software (Pós-Graduação) - UNICV
-
+* Desenvolvimento de Sistemas Web com PHP (Pós-Graduação) - UNICV
 
 #### Minhas redes:
 <a href="https://github.com/juniorrodriguesazevedo/Contato"><img src="https://i.imgur.com/An0fQHP.png" height="30" width="30"></a>
