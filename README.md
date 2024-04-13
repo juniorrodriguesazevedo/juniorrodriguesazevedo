@@ -22,8 +22,10 @@
 <img src="https://icongr.am/devicon/html5-original.svg?size=120&color=f74408" alt="HTML" height="30" width="40">
 <img src="https://icongr.am/devicon/css3-original.svg?size=120&color=f74408" alt="CSS" height="30" width="40">
 <img src="https://icongr.am/devicon/javascript-original.svg?size=120&color=f74408" alt="JS" height="30" width="40">
+<img src="https://icongr.am/devicon/vuejs-original.svg?size=120&color=f74408" alt="Vue" height="30" width="40">
 <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=120&color=5642eb" alt="Bootstrap" height="30" width="40">
 <img src="https://cdn-images-1.medium.com/max/1200/1*ilC2Aqp5sZd1wi0CopD1Hw.png" alt="Flutter" height="30" width="30">
+<img src="https://icongr.am/devicon/docker-original.svg?size=120&color=5642eb" alt="Docker" height="40" width="50">
 </div>
 
 
